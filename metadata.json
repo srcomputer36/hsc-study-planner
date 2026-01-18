@@ -1,0 +1,8 @@
+{
+  "name": "HSC Study Planner & AI Assistant",
+  "short_name": "HSC Planner",
+  "description": "A feature-rich study routine builder, progress tracker, and AI board question analyzer for HSC candidates. Includes a virtual ID generator and live board news sync.",
+  "version": "1.2.0",
+  "author": "Iftiar Hasan Fazayel",
+  "requestFramePermissions": []
+}
